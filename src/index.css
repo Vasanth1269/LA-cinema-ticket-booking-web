@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Dancing+Script:wght@400..700&family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+*{
+     font-family: "Outfit", sans-serif;
+     scrollbar-width: none;
+     scrollbar-color: #787777 #1e1e1e;
+}
+
+
+
