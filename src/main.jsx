@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import {BrowserRouter} from 'react-router-dom'
 import { BookingProvider } from './components/bookingcotext.jsx'
 import './index.css'
-import "./style.css";
+
 import{App} from './App.jsx'
 
 

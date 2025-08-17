@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/LA-cinema-ticket-booking-web/",
+  base: '/movie-ticket-booking/',
   plugins: [
     react(),
      tailwindcss(),
